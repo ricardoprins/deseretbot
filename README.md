@@ -1,2 +1,2 @@
 # deseretbot
-A stock trading webapp to perform operations in Robinhood.
+A stock trading application to perform operations in Robinhood.
